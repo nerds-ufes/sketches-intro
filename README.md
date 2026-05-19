@@ -35,4 +35,4 @@ jupyter notebook sketches-intro.ipynb
 - Cormode, G., & Muthukrishnan, S. (2005). An improved data stream summary: the count-min sketch. *Journal of Algorithms*.
 
 ---
-LPRM / Departamento de Informática — Universidade Federal do Espírito Santo (Ufes)
+Departamento de Informática — Universidade Federal do Espírito Santo (Ufes)
