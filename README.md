@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue) 
 ![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange) 
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-GPL--2.0-blue)
 
 
 Introductory Jupyter notebook on probabilistic data structures applied to network traffic analysis.
